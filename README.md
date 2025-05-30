@@ -2,8 +2,6 @@
 
 Este repositório reúne meus primeiros projetos desenvolvidos com **JavaScript puro**, com foco na prática de **lógica de programação**, **manipulação do DOM**, **eventos** e **interatividade em páginas web**.
 
-Cada projeto é uma aplicação simples, mas essencial para consolidar os fundamentos da linguagem e ganhar fluência no desenvolvimento front-end.
-
 ---
 
 ## 🚀 Objetivo
@@ -27,8 +25,6 @@ Todos os projetos aqui foram construídos com tecnologias básicas do desenvolvi
 
 ## 📌 Considerações finais
 
-Este repositório é uma vitrine da minha fase de aprendizado com JavaScript básico. Novos projetos serão incluídos à medida que continuo estudando e explorando novos desafios.
-
-Se você também está aprendendo, fique à vontade para explorar os códigos, testar ideias e até adaptar os projetos conforme seu próprio ritmo de estudo.
+Este repositório é uma vitrine da minha fase de aprendizado com JavaScript básico. Novos projetos serão incluídos à medida que continuo estudando e explorando novos desafios. Se você também está aprendendo, fique à vontade para explorar os códigos, testar ideias e até adaptar os projetos conforme seu próprio ritmo de estudo.
 
 > 💬 *Toda jornada começa com um primeiro script — e este repositório representa o meu.*
