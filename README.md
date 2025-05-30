@@ -1,16 +1,34 @@
-# Projetos-js-b-sico
+# Projetos JavaScript Básico
 
-Este repositório reúne uma série de **mini projetos desenvolvidos com JavaScript puro**, com o objetivo de praticar lógica de programação, manipulação do DOM, tratamento de eventos e interatividade no front-end.
-Todos os projetos foram desenvolvidos com foco no aprendizado dos fundamentos da linguagem, sem o uso de bibliotecas externas.
+Este repositório reúne meus primeiros projetos desenvolvidos com **JavaScript puro**, com foco na prática de **lógica de programação**, **manipulação do DOM**, **eventos** e **interatividade em páginas web**.
+
+Cada projeto é uma aplicação simples, mas essencial para consolidar os fundamentos da linguagem e ganhar fluência no desenvolvimento front-end.
 
 ---
 
 ## 🚀 Objetivo
 
-O principal objetivo deste repositório é exercitar os **conceitos fundamentais do JavaScript**, desenvolvendo pequenos sistemas funcionais que reforçam tópicos como:
+O principal objetivo deste repositório é **praticar os conceitos fundamentais do JavaScript**, desenvolvendo pequenos sistemas e interações que refletem situações reais do dia a dia no front-end.
 
-- Manipulação de elementos HTML com JavaScript
-- Respostas a eventos de usuário (cliques, inputs, etc.)
-- Controle de fluxo com condicionais e loops
-- Criação e chamada de funções
-- Uso de arrays, objetos e estruturas básicas
+A ideia é explorar desde os primeiros passos com variáveis e funções, até aplicações com interação dinâmica e manipulação de elementos HTML via JavaScript.
+
+Além disso, este repositório serve como **registro de evolução e portfólio prático**, permitindo que eu acompanhe meu progresso e compartilhe meu aprendizado com outras pessoas interessadas na área.
+
+---
+
+## 🛠️ Tecnologias utilizadas
+
+Todos os projetos aqui foram construídos com tecnologias básicas do desenvolvimento web:
+
+- **HTML5** – Para estruturação do conteúdo da página.
+- **CSS3** – Para estilização visual simples e legível.
+- **JavaScript (ES6+)** – Para implementar lógica, interações e funcionalidades dinâmicas.
+---
+
+## 📌 Considerações finais
+
+Este repositório é uma vitrine da minha fase de aprendizado com JavaScript básico. Novos projetos serão incluídos à medida que continuo estudando e explorando novos desafios.
+
+Se você também está aprendendo, fique à vontade para explorar os códigos, testar ideias e até adaptar os projetos conforme seu próprio ritmo de estudo.
+
+> 💬 *Toda jornada começa com um primeiro script — e este repositório representa o meu.*
